@@ -12,10 +12,6 @@ This project is the first one in Ruby module at Microverse. In this project, we 
 
 
 
-[Live Demo Link](https://raw.githack.com/enaburekhan/online-course-directory/feature-coding/html/index.html)
-
-
-
 ## Getting Started
 
 This project involves using the ruby logics to sort a list of arr into order. 
@@ -28,7 +24,7 @@ This project involves using the ruby logics to sort a list of arr into order.
 - Twitter: [@enaburekhaneric](https://twitter.com/enaburekhaneric)
 - Linkedin: [@ericenaburekhan](https://www.linkedin.com/in/eric-enaburekhan-801a28100/)
 
-👤 **Eric Enaburekhan**
+👤 **David Yao**
 
 - Github: [@daviidy](https://github.com/daviidy )
 - Twitter: [@DavidYao3](https://twitter.com/DavidYao3)

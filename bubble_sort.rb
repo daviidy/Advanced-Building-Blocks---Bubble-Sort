@@ -2,7 +2,7 @@ def bubble_sort(arr)
   # we get the length of the array
   arr_length = arr.length
   loop do
-    # we create a variable taht will be checked if elements are swapped
+    # we create a variable that will be checked if elements are swapped
     is_swapped = false
     (arr_length - 1).times do |i|
       next unless arr[i] > arr[i + 1]
