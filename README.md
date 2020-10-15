@@ -1,7 +1,8 @@
 # Advanced-Building-Blocks---Bubble-Sort
-This project is the first one in Ruby module at Microverse. In this project, we implemented the bubble sort algorithm. Assignment is focused on the use of yield and passing a block to a method.
+This project is the first one in Ruby module at Microverse. In this project, we implemented the bubble sort algorithm. Assignment is focused on the use of yield and passing a block to a method. The project was implemented using two methods.
+the first method involves creating a variable "is_swapped" and setting it to false. Then Looping through the block with the variable checking if the elements are swapped. The iteration will stop once the variable "is_swapped" becomes true.
 
-
+The second method uses the yield method with the created variable "sorted" initially set to "false". The yield method is use to pass the two arguments to the block after using the "upto" method to iterate over the length of the array, excluding the last element. If the sorted_blk is positive, then we reverse the order on the array. Once the sorted variable becomes true, the iteration stops and the sorting is complete.
 
 ![onlineCodingDirectory-screen-shot](./read.png)
 
