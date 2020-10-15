@@ -17,6 +17,27 @@ The second method uses the yield method with the created variable "sorted" initi
 
 This project involves using the ruby logics to sort a list of arr into order. 
 
+### Prerequisites
+
+To get this project up and running, you must have Ruby installed on your machine.
+
+### Installation
+
+**To get this project set up on your local machine, follow these simple steps:**
+
+- Clone the github repository git@github.com:daviidy/Advanced-Building-Blocks---Bubble-Sort.git on your local machine
+- Cd into the clone folder
+- Add Ruby github/workflows
+- After creating the bubble_sort method and the bubble_sort_by method on the clone folder.
+- Install ruby extension pack on your IDE or code editor
+- right click and click run to test your codes if it passed the test. If passed;
+- Run rubocop on your working folder
+- Fix errors
+- stage, commit, push to the created remote branch(feature-branch) on github and create a pull request.
+
+
+
+
 ## Author
 
 👤 **Eric Enaburekhan**
